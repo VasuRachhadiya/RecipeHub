@@ -1,1 +1,10 @@
 # RecipeHub
+![login](https://github.com/user-attachments/assets/492a1db6-9bba-434f-9063-35a75fa5358c)
+![signup](https://github.com/user-attachments/assets/d6a7cc3f-9a5b-419c-bedc-e13ffb0f6572)
+![home](https://github.com/user-attachments/assets/64d9b858-af47-4c7d-9dec-72babb5f08ec)
+![detail](https://github.com/user-attachments/assets/04b452be-de5b-4d09-8e01-6b7ed82473ec)
+![profile](https://github.com/user-attachments/assets/4a8fb665-85cf-44a9-8505-43dddf4f3329)
+![edit_profile](https://github.com/user-attachments/assets/df5791bf-6550-404e-9965-874976f50f10)
+![add_recipe](https://github.com/user-attachments/assets/f258e7e6-b650-41a0-a8d5-d619bcd25006)
+![bookmark](https://github.com/user-attachments/assets/8691591b-a480-4ebe-9135-1d519bdb3b54)
+![share](https://github.com/user-attachments/assets/5849ac7f-5a40-4707-8811-17c3e1b80ee1)
