@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecipeHub</string>
+    <string name="enter_username_or_email">Enter Username or Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="or">Or</string>
+    <string name="signup">Signup</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="subtitle">Mukund</string>
+</resources>
